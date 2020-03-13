@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SqliteIntro": {
+      "commandName": "Project",
+      "commandLineArgs": "-f \"c:\\logs\\allusers.sqlite\" -q \"SELECT * FROM tasks\" -o test.csv"
+    }
+  }
+}

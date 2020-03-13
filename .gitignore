@@ -3,3 +3,7 @@
 ################################################################################
 
 /SqliteIntro/bin/Debug/netcoreapp3.1
+/SqliteIntro/obj/Debug/netcoreapp3.1
+/SqliteIntro/obj/Release/netcoreapp3.1
+/.vs
+/SqliteIntro/obj
